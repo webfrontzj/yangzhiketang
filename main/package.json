@@ -22,11 +22,14 @@
   "homepage": "https://github.com/webfrontzj/yangzhiketang#readme",
   "dependencies": {
     "@koa/cors": "^3.1.0",
+    "bcryptjs": "^2.4.3",
     "koa": "^2.12.0",
     "koa-bodyparser": "^4.3.0",
     "koa-router": "^8.0.8",
     "lodash": "^4.17.15",
+    "moment": "^2.26.0",
     "require-directory": "^2.1.1",
+    "sequelize": "^5.21.11",
     "validator": "^13.0.0"
   }
 }
